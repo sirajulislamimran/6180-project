@@ -26,9 +26,13 @@ This project includes:
 
 ## 📂 Repository Structure
 ├── 6180.ipynb # Main notebook (RUN THIS)
+
 ├── Telco-Customer-Churn.csv # Dataset (upload manually when prompted)
+
 ├── Telco_customer_churn.xlsx # Original dataset (not required for execution)
+
 ├── images/ # Saved plots (optional)
+
 ├── README.md # Project documentation
 
 
